@@ -12,9 +12,9 @@ Our contributions are as follows.
 - Evaluated on the AD classification task with the MRI and FDG-PET data from the ADNI database, our proposed ASMFS is demonstrated to be effective and superior in identifying disease status and discovering the disease sensitive biomarkers compared with other feature selection.
 
 
-
-![ASMFS](https://raw.githubusercontent.com/Shiyuang-scu/ASMFS/main/ASMFS.png)
-
+<p align="center">
+<img src="./ASMFS.png" height=350>
+</p>
 
 
 ## Results
