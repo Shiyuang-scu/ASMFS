@@ -80,8 +80,14 @@ ASMFS works well for Alzhermer's Disease classification, the results for AD vs. 
 
 ## Citation
 
-TBC
-
+@article{shi2022asmfs,
+  title={ASMFS: Adaptive-Similarity-based Multi-modality Feature Selection for Classification of Alzheimer's Disease},
+  author={Shi, Yuang and Zu, Chen and Hong, Mei and Zhou, Luping and Wang, Lei and Wu, Xi and Zhou, Jiliu and Zhang, Daoqiang and Wang, Yan},
+  journal={Pattern Recognition},
+  pages={108566},
+  year={2022},
+  publisher={Elsevier}
+}
 
 
 ## References
